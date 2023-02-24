@@ -1,0 +1,8 @@
+# ignore bin
+AirBusManager/bin/
+
+# ignore settings
+AirBusManager/.settings/
+
+# ignore metadata
+AirBusManager/.metadata/
