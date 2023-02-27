@@ -1,0 +1,6 @@
+[33m**********Résumé de la commande n°1**********[0m
+soupe
+boeuf
+frites
+vin
+tiramisu

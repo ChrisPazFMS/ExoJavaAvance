@@ -1,8 +1,9 @@
 # ignore bin
-AirBusManager/bin/
+Exo1/bin/
+Exo2/bin/
+Exo3/bin/
 
 # ignore settings
-AirBusManager/.settings/
-
-# ignore metadata
-AirBusManager/.metadata/
+Exo1/.settings/
+Exo2/.settings/
+Exo3/.settings/

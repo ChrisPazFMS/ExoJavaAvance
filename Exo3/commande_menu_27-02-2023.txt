@@ -1,0 +1,18 @@
+[33m**********Résumé de la commande n°1**********[0m
+salade
+poulet
+riz
+eau plate
+tarte maison
+[33m**********Résumé de la commande n°2**********[0m
+soupe
+boeuf
+pates
+eau gazeuze
+mousse au chocolat
+[33m**********Résumé de la commande n°3**********[0m
+quiche
+poisson
+frites
+soda
+tiramisu
